@@ -1,0 +1,67 @@
+table{
+	width: 100%;
+}
+table thead tr{
+	height: 200px;
+	 text-align: center;
+	 background-color:ghostwhite;
+}
+.menu{
+	text-align: center;
+	background-color: blue; 
+	color: white;
+	font-size: 35px;
+}
+.menu a{
+	color: white;
+	text-decoration: none;
+}
+tbody .menu-row{
+	height: 80px;
+}
+.menu .active{
+	color: purple;
+}
+.td-width{
+	width: 50%;
+}
+.content .inner-content{
+ 			padding: 3% 10%;
+}
+.footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+input{
+	display: block;
+	width: 80%;
+	padding: 2% 0;
+	margin: 2% 0;
+}
+textarea{
+	width: 80%;
+}
+.button{
+	display: block;
+	margin: 2% 0;
+	padding: 2% 0;
+	width: 50%;
+	background-color: darkblue;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
